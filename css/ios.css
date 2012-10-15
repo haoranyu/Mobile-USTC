@@ -1,0 +1,26 @@
+.headbar{
+	background:url(../img/bg_ios.jpg);
+}
+.down1,.down2{
+display:block;
+background-image:url(../img/btn_ios.jpg);
+width:198px;
+margin:0 6px;
+height:58px;
+float:left;
+}
+.down1{
+background-position:0 180px;
+}
+a.down2:hover{
+background-position:0 -61px;
+}
+a.down1:hover{
+background-position:0 119px;
+}
+#demo li{
+height:323px;
+width:232px;
+float:left;
+overflow:hidden
+}
